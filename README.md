@@ -22,7 +22,7 @@ SaaS B2B de gestión comercial: bandeja de entrada multicanal, pipeline de venta
 ## Stack técnico
 
 <p align="left">
-  <img src="stack.png" alt="Stack técnico: Python, Java, SQL, HTML, Haskell, Prolog, NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, NetworkX, Git, GitHub, VS Code, Antigravity, Colab y LaTeX" width="720"/>
+  <img src="stack1.jpg" alt="Stack técnico: Python, Java, SQL, HTML, Haskell, Prolog, NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, NetworkX, Git, GitHub, VS Code, Antigravity, Colab y LaTeX" width="720"/>
 </p>
 
 
