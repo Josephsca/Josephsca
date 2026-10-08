@@ -2,10 +2,10 @@
 <p align="center"><b>AI Engineering · Machine Learning · Data</b></p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Josephsca"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:joseph.canon-a@mail.escuelaing.edu.co"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:joseph.canon-a@mail.escuelaing.edu.co"><img src="https://img.shields.io/badge/Correo-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Meta-Tech_Provider-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
 </p>
+
 
 ## Sobre mí
 Estudiante de Ingeniería en Inteligencia Artificial, con foco en machine learning, análisis de datos y modelado de bases de datos. Soy Meta Tech Provider y fundador de Nauta Colombia, donde construyo productos con IA e integraciones con WhatsApp Business Platform.
